@@ -8,4 +8,3 @@ console.log(
                                       //     'falseundefined'[Number('10')] => i XDDDDD
 
     + (![] + [])[!+[] + !+[]]);       //  'false'[Number(true) + Number(true)] => l xD
-
